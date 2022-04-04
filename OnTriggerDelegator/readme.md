@@ -1,0 +1,1 @@
+This script is used to delegate the OnTrigger methods from Monobehaviour to other scripts.
